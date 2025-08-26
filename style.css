@@ -10,3 +10,11 @@ body {
   color: #333;
   margin-top: 20px;
 }
+
+#countdown-image {
+  margin-top: 30px;
+  width: 300px;          /* Bildbreite anpassen */
+  max-width: 80%;        /* passt sich an kleine Bildschirme an */
+  border-radius: 12px;   /* abgerundete Ecken */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Schatten */
+}
